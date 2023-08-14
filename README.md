@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for Summer 2024 internships in **PM, SDE, SWE**
 
-- 💬 Ask me about **Java, Golang**
+- 💬 Ask me about **MIS, Java, System Designs, DBMS, Golang**
 
 - 📫 How to reach me **mhole@buffalo.edu**
 
